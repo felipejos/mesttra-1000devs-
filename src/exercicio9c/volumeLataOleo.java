@@ -1,4 +1,4 @@
-package exercicio9;
+package exercicio9c;
 
 import java.util.Scanner;
 
